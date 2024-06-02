@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>526321755487-jd3kmec0kpa7so7t5si6m7jbq8bhdsao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526321755487-jd3kmec0kpa7so7t5si6m7jbq8bhdsao</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJfUIPf2XlXPynlqB7LXp0yDeyK4mN09U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526321755487</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Com.aryansoln.SocialMedia</string>
+	<key>PROJECT_ID</key>
+	<string>socialmediaapp-19669</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialmediaapp-19669.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526321755487:ios:52ec0b586023e83aa1c2ea</string>
+</dict>
+</plist>
